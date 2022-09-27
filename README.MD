@@ -1,4 +1,4 @@
-## Opaa, eu sou o Kelson Victor, sou apaixonado por tecnologia e pelas coisas maravilhosas que podemos fazer com elas!
+## Opaa, eu sou o Kelson Victor, sou apaixonado por tecnologia e pelas coisas maravilhosas que podemos fazer com ela!
 
 <div align="center">
   <a href="https://github.com/K3lOli">
