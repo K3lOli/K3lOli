@@ -1,6 +1,6 @@
 ## Opaa, eu sou o Kelson 😁👌!
-- 🌱 Sou estudante de Engenharia Elétrica
-- 👯 Procuro me tornar um desenvolvedor FullStack
+- ⚡️ Sou estudante de Engenharia Elétrica
+- 🚀 Procuro me tornar um desenvolvedor FullStack
 
 <div align="center">
   <a href="https://github.com/K3lOli">
