@@ -1,6 +1,6 @@
 ## Opaa, eu sou o Kelson 😁👌!
 - ⚡️ Sou estudante de Engenharia Elétrica
-- 🚀 Foco em desenvolvimento webn e Ciência de Dados
+- 🚀 Foco em desenvolvimento web e Ciência de Dados
 
 <div align="center">
   <a href="https://github.com/K3lOli">
