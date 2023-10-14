@@ -29,5 +29,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/K3lOli/K3lOli/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://github.com/K3lOli/K3lOli/blob/output/github-contribution-grid-snake.svg" />
 </picture>
-
-![Snake animation](https://github.com/K3lOli/K3lOli/blob/output/github-contribution-grid-snake.svg)
