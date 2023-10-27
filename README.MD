@@ -8,7 +8,7 @@
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3lOli&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div style="display: inline_block, width: "100%, justify-content: center""><br>
+<div style="display: inline_block, width: "100%", justify-content: center""><br>
   <img align="center" alt="Kel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Kel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Kel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
