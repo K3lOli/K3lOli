@@ -1,6 +1,6 @@
 ## Hi, I'm [Kelson](https://www.linkedin.com/in/kelson-victor/)!
 -  💡I'm an fullstack developer!
--  💡And an electrical engineering student!
+-  💡And also, an electrical engineering student!
 
 <div align="center">
   <a href="https://github.com/K3lOli">
