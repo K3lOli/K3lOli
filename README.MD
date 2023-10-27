@@ -1,4 +1,4 @@
-## Opaa, eu sou o Kelson 😁👌!
+## Hi, I'm [Kelson](https://www.linkedin.com/in/kelson-victor/)!
 - ⚡️ Sou estudante de Engenharia Elétrica
 - 🚀 Foco em Desenvolvimento Web e Ciência de Dados
 
