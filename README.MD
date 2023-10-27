@@ -1,6 +1,6 @@
 ## Hi, I'm [Kelson](https://www.linkedin.com/in/kelson-victor/)!
-- ⚡️ Sou estudante de Engenharia Elétrica
-- 🚀 Foco em Desenvolvimento Web e Ciência de Dados
+-  💡I'm an fullstack developer!
+-  💡And an electrical engineering student!
 
 <div align="center">
   <a href="https://github.com/K3lOli">
